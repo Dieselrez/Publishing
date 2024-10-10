@@ -2,7 +2,7 @@
 layout: Post
 permalink: /notes
 feedformat: card
-title: Digital Garden
+title: Condor Bible
 ---
 
-The feed page shows all notes from `notes` folder. If you want to hide any notes from this feed, add `feed:hide` on note's Frontmatter. Eg:[[Hidden Note]]
+This be the Condor Bible, Follow this and become a disciple and train to become one for the cause. For all of us are wished to be the greatest, strongest, enough... This, this will teach you.
