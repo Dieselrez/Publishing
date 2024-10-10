@@ -19,3 +19,6 @@ format: list
 - [Anish](https://github.com/anishsheela), for JS corrections
 - [Binny](https://github.com/binnyva) for making [Gatsby version](https://github.com/binnyva/gatsby-garden) of the same theme
 - [Gnuanu](https://github.com/gnuanu) for beta testing and private bug reporting
+
+
+
