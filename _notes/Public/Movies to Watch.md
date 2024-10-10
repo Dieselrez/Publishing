@@ -16,15 +16,13 @@ date: 10-10-2024
 
 
 ##### Conner: 
-Finally finished up Terraria will do, modded soon after minecraft.
+Finally finished up Terraria will do, modded soon after Minecraft.
 #### Jack: 
 #### Crest: 
 #### Jesse: 
 #### Joel: 
 #### Logan: 
 #### Others: 
-
-
 ###  ![[Movies WE want to Watch]]
 ### Certain Events we will have in the coming future that we may partake in.
 #### Oktoberfest? Oct 12th Stillwater, OK
