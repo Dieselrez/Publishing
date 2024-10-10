@@ -1,10 +1,9 @@
 ---
-title : Condor Bible
+title : Welcome to the garden
 feed: show
-date : 10-10-2024
+date : 15-04-2021
 ---
 
-This be the Condor Bible, Follow this and become a disciple and train to become one for the cause. For all of us are wished to be the greatest, strongest, enough... This, this will teach you. `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
+Welcome to digital garden using Obsidian and Jekyll garden theme. This file is located in `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
 
-
-
+Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
