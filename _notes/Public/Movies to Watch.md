@@ -33,32 +33,19 @@ Finally finished up Terraria will do, modded soon after minecraft.
 - Idk like Christmas?
 - We have a sleepover at Joels!
 - Idk sleep on the roof together
-  
 
 Master Classes taught by our members of our cult?
 
 -(Explained) We have someone teach us a thing they are considered moderately/expertly well informed on. Like when Crest did a class on Server things! Or how to set up a minecraft server! Or maybe even how to use cad, model a robot arm, or even… math…
 
-  
-
 - People that may do the  Classes
-
 - Conner: 
-
 - Crest: (servers or so?)(chemistry)(baseball)(swimming)(drugs)(CT scans)(random instrumentations)(computers)(Gun things)
-
 - Joel: (Engineering things)  
-
 - Jesse: (Mathing it up?)
-
 - Logan: (Maybe Guns?) I can teach knot tying? 
-
 - Jack: (Acting?)
-
 - Matt mc: (Guns)
-
 - Matt p: (Guns)  
-
 - Samo: (rowing)  
-
 - Other peoples
