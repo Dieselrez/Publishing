@@ -16,7 +16,7 @@ date: 10-10-2024
 
 
 ##### Conner: 
-	Finally finished up Terraria will do, modded soon after minecraft.
+Finally finished up Terraria will do, modded soon after minecraft.
 #### Jack: 
 #### Crest: 
 #### Jesse: 
@@ -24,31 +24,10 @@ date: 10-10-2024
 #### Logan: 
 #### Others: 
 
-  
 
-- ### Movies WE want to Watch:
-    
-
-- Conan Barb
-- The thing   
-- Mad Max series
-	- Mad max 1
-- Primal (show)-partial watched eps1-3    
-- Terminator    
-- Twister    
-- Hitman (we watch with Jesse)
-- Kingdom of the Planet of the Apes  ?
-- The Evil Dead Series (We watched the first movie)?
-- Jin-Roh: The Wolf Brigade ?
-- No Country for Old Men
-- The Road(Going to read this -Conner)
-
-We will put Dates so that we will be more proper and people can plan around when we will watch and hangs out… yes
-
-  
-
-- Certain Events we will have in the coming future that we may partake in.
-- Oktoberfest? Oct 12th Stillwater, OK
+###  ![[Movies WE want to Watch]]
+### Certain Events we will have in the coming future that we may partake in.
+#### Oktoberfest? Oct 12th Stillwater, OK
 [https://www.visitstillwater.org/event/downtown-oktoberfest/32544/](https://www.visitstillwater.org/event/downtown-oktoberfest/32544/)
 
 - Idk like Christmas?
