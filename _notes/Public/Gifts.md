@@ -2,6 +2,7 @@
 title: Gifts
 feed: hide
 date: 13-10-2024
+permalink: /gifts
 ---
 ### Gifts and Such Thoughts
 
