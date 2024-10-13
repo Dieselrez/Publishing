@@ -10,7 +10,7 @@ date: 10-13-24
 
 ##### Mother
  - [ ] Keyboard [Keychron K10](https://www.amazon.com/Keychron-Bluetooth-Wireless-Mechanical-Multitasking/dp/B08MKSNYJD/ref=sr_1_20?sr=8-20)
- - [ ] Mouse [Logitech 305](https://www.amazon.com/gp/product/B086PJKVVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1}
+ - [ ] Mouse [Logitech 305](https://www.amazon.com/gp/product/B086PJKVVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
  - [ ] Get Professional Scans of all the photos! (May requires ***some*** moneys but should be super worth it!)
 ##### Father
 - [ ] Cordless Dewalt Say 
