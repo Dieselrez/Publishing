@@ -1,8 +1,7 @@
 ---
 title: Gifts
 feed: hide
-date: 10-13-2024
-permalink: /notes/gifts
+date: 13-10-2024
 ---
 ### Gifts and Such Thoughts
 
@@ -40,3 +39,6 @@ permalink: /notes/gifts
 - [ ] Put The Big Bang Theory on Flash Drive... maybe... 
 - [ ] Color Changing Light Bulb that changes based on certain requirements... maybe... 
 - [ ] KEYBOARD FOR TV [Logitech K400](https://www.amazon.com/Logitech-Wireless-Keyboard-Touchpad-PC-connected/dp/B014EUQOGK/ref=sr_1_3?sr=8-3)
+
+##### Stocking Stuffers
+- [ ] maybe... make a joke website?
