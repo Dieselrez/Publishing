@@ -30,8 +30,6 @@ permalink: /gifts
 - [ ] Maggie- heating pad for her bed!
 ##### Mother and Father
 - [ ]  Lithopane of Wedding Picture-Lamp? [Backlight LED](https://us.store.bambulab.com/collections/makers-supply/products/lithophane-led-backlight-board-kit)
-
-- [ ] 
 ##### Everyone! 
 - [ ] RFID (wanted to let you know I love you thing)  Put on a keychain? Tap your phone with the RFID thing and it sends the message!
 - [ ] Custom dice for Favorite Child.... its only Conner on there. 
