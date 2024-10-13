@@ -1,7 +1,8 @@
 ---
-title: Birthday-Christmas Gifts
+title: Gifts
 feed: hide
 date: 10-13-24
+permalink: /gifts
 ---
 ### Gifts and Such Thoughts
 
@@ -13,7 +14,7 @@ date: 10-13-24
  - [ ] Mouse [Logitech 305](https://www.amazon.com/gp/product/B086PJKVVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
  - [ ] Get Professional Scans of all the photos! (May requires ***some*** moneys but should be super worth it!)
 ##### Father
-- [ ] Cordless Dewalt Say 
+- [ ] Cordless Dewalt Saw either the 6-1/2 or the 7-1/4
 - [ ] Organization for tools!
 - [ ] New Baseball bag?
 - [ ] Cooling Tint! for Car/Truck
