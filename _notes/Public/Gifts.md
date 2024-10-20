@@ -18,6 +18,7 @@ permalink: /gifts
 - [ ] Organization for tools!
 - [ ] New Baseball bag?
 - [ ] Cooling Tint! for Car/Truck
+- [ ] [Dad story Book](https://www.amazon.com/Dad-Want-Hear-Your-Story/dp/1070527718/?_encoding=UTF8&ref_=pd_hp_d_btf_wsixnhcumxnet)
 
 ##### Sister
 - [ ] Music Box? 
