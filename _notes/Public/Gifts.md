@@ -19,7 +19,7 @@ permalink: /gifts
 - [ ] New Baseball bag?
 - [ ] Cooling Tint! for Car/Truck
 - [ ] [Dad story Book](https://www.amazon.com/Dad-Want-Hear-Your-Story/dp/1070527718/?_encoding=UTF8&ref_=pd_hp_d_btf_wsixnhcumxnet)
-
+- [ ] NEW LAPTOP!!!
 ##### Sister
 - [ ] Music Box? 
 - [ ] Chibi of Me and sis (The one that we Did when I was in overalls about to cry-young Conner)
