@@ -27,6 +27,3 @@ Starting Location: **Stillwater OK**
 
 Destination: **Corpus Christi TX**
 
-
-
-

@@ -37,11 +37,11 @@ Master Classes taught by our members of our cult?
 
 - People that may do the  Classes
 - Conner: 
-- Crest: (servers or so?)(chemistry)(baseball)(swimming)(drugs)(CT scans)(random instrumentations)(computers)(Gun things)
+- Crest: (servers or so?)(chemistry)(baseball)(swimming)(drugs)(CT scans)(random instrumentations)(computers)(not Gun things)
 - Joel: (Engineering things)  
 - Jesse: (Mathing it up?)
 - Logan: (Maybe Guns?) I can teach knot tying? 
-- Jack: (Acting?)
+- Jack: (Guns... and Acting?)
 - Matt mc: (Guns)
 - Matt p: (Guns)  
 - Samo: (rowing)  
