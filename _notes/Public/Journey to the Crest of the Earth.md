@@ -8,7 +8,7 @@ date: 12-11-2021
 - Intention of Trip
 	- words 
 	- Trip map thing
-![[Pasted image 20241112222614.png]]
+https://maps.app.goo.gl/f2JatN6XYQqCTDoaA
 #### Time of Trip?
 - Go in Winter?
 	- Pro's
