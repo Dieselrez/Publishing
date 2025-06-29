@@ -7,12 +7,12 @@ permalink: /gifts
 ### Gifts and Such Thoughts
 
 ##### Mother
- - [ ] Keyboard [Keychron K10](https://www.amazon.com/Keychron-Bluetooth-Wireless-Mechanical-Multitasking/dp/B08MKSNYJD/ref=sr_1_20?sr=8-20)
- - [ ] Mouse [Logitech 305](https://www.amazon.com/gp/product/B086PJKVVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+ - [x] Keyboard [Keychron K10](https://www.amazon.com/Keychron-Bluetooth-Wireless-Mechanical-Multitasking/dp/B08MKSNYJD/ref=sr_1_20?sr=8-20)
+ - [x] Mouse [Logitech 305](https://www.amazon.com/gp/product/B086PJKVVT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 ##### Father
 - [ ] Cordless Dewalt Saw either the 6-1/2 or the 7-1/4
 - [ ] Organization for tools!
-- [ ] [Dad story Book](https://www.amazon.com/Dad-Want-Hear-Your-Story/dp/1070527718/?_encoding=UTF8&ref_=pd_hp_d_btf_wsixnhcumxnet)
+- [x] [Dad story Book](https://www.amazon.com/Dad-Want-Hear-Your-Story/dp/1070527718/?_encoding=UTF8&ref_=pd_hp_d_btf_wsixnhcumxnet)
 - [x] NEW LAPTOP!!!
 ##### Sister
 - [ ] Lithopane of Lex and Adam
