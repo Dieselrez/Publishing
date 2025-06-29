@@ -14,8 +14,8 @@ Necessary Preparations:
 	Install Tailscale per their wiki--make sure it works by checking web client
 	
 	
-How to set it up, use this folder thing 
-	"Docker for Conner"
+How to set it up, use this folder thing <break> 
+	<\break>:"Docker for Conner"
 What is inside of it
 	mnt(folder)
 		local
