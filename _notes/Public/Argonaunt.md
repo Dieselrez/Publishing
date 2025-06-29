@@ -36,6 +36,7 @@ What is inside of it\\
 		radarr
 		sab
 		sonarr
+
 paste that folder over and replace conner with something else and change the mnt folder chain to something else if needed. Use chmod to change all folder under data to be able to have full use to execute, read, and write. which the command is "sudo chmod 777 data/(astericks)" this should do all the folders under data to have all of those rights.
 
 So long as everything is set up, go into argonaunt folder and run command 
