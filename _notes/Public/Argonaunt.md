@@ -15,7 +15,7 @@ Necessary Preparations:
 	
 	
 How to set it up, use this folder thing <break> 
-	<\break>:"Docker for Conner"
+	<break\>:"Docker for Conner"
 What is inside of it
 	mnt(folder)
 		local
